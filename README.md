@@ -45,6 +45,9 @@
    /api/delete-users<br>  
 
 # Features:
+<h3>Favicon</h3>
+<p>Having a favicon is a great addition to our website! </p>
+
 <h3>Introduction</h3>
 <p>Our E-commerce website is designed to provide a user-friendly online shopping experience for customers and efficient management tools for administrators. The project is divided into three main parts: the guest/visitor interface, the user interface and the admin panel.</p>
 
@@ -75,7 +78,7 @@ MongoDB instance or connection URI.<br>
 Basic knowledge of the MERN stack.<br>
 
 
-# Installation
+# 🛠️ Installation
 Clone this repository: git clone https://github.com/Maria-Siddiqui-Ned/MERN-STACK-E-Commerce-Project.git<br>
 Navigate to the project folder: cd MERN-STACK-E-Commerce-Project<br>
 Install server dependencies: npm install<br>
@@ -91,7 +94,7 @@ NODEMAILER_EMAIL<br>
 NODEMAILER_PASSWORD<br>
 
 # Usage
-Start the server by: npm run dev<br>
+Start the server by npm run dev<br>
 
 # Contributing
 We welcome contributions to enhance the project.<br>
