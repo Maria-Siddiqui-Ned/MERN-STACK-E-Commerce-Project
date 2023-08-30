@@ -46,15 +46,16 @@
 
 # Features:
 <h3>Favicon</h3>
-<p>Having a favicon is a great addition to our website! </p>
+<p>Having a favicon is a great addition to our website! This helps users quickly recognize our website among other tabs and bookmarks, enhancing our brand's visibility. Also it shows attention to detail and professionalism.</p>
 
 <h3>Introduction</h3>
-<p>Our E-commerce website is designed to provide a user-friendly online shopping experience for customers and efficient management tools for administrators. The project is divided into three main parts: the guest/visitor interface, the user interface and the admin panel.</p>
+<p>Our E-commerce website is designed to provide a user-friendly online shopping experience for customers and efficient management tools for administrators. The project is divided into three main parts: the guest/visitor interface, the user interface and the admin panel.</p><br>
+
 
 <p><b>Guest Interface:</b></p>
 * Securely Signup to become Customer/User<br>
 * Browse all categories.<br>
-* Browse all brands.<br>
+* Browse all brands.<br><br>
 
 <p><b>User Interface:</b></p>
 * Securely login<br>
@@ -64,7 +65,7 @@
 * Browse products by category.<br>
 * Browse products by brands.<br>
 * View product details i.e title, price, stock, brand, images, description and reviews.<br>
-* Add products to the cart with quantity and proceed to checkout.<br>
+* Add products to the cart with quantity and proceed to checkout.<br><br>
 
 <p><b>Admin Panel:</b></p>
 * Add and delete products.<br>
